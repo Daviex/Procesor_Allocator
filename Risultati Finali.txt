@@ -1,0 +1,15 @@
+Media dimensione blocchi liberi First-Fit: 3478
+Media dimensione blocchi liberi Best-Fit: 3561
+Media dimensione blocchi liberi Worst-Fit: 3540
+
+Media confronti First-Fit: 78
+Media confronti Best-Fit: 117
+Media confronti Worst-Fit: 118
+
+Numero di allocazioni fallite First-Fit: 2328, di cui 2059 per via della frammentazione esterna
+Numero di allocazioni fallite Best-Fit: 2117, di cui 1834 per via della frammentazione esterna
+Numero di allocazioni fallite Worst-Fit: 3110, di cui 2872 per via della frammentazione esterna
+
+Media di frammentazione esterna First-Fit (%): 27.81%
+Media di frammentazione esterna Best-Fit (%): 25.37%
+Media di frammentazione esterna Worst-Fit (%): 34.69%

@@ -1,0 +1,10 @@
+digraph "classes_Progetto" {
+charset="utf-8"
+rankdir=BT
+"0" [label="{AllocationManager|waitProcessList\llogging\lmemory\l|bestFit()\lcheckForProcesses()\lallocateProcess()\lclearMemory()\lfirstFit()\lgraphicStateOfMemory()\lworstFit()\lisMemoryAllocated()\l}", shape="record"];
+"1" [label="{Colors|Blue : str\lLightGray : str\lBoldBlue : str\lBoldRed : str\lDefault : str\lDarkGray : str\lYellow : str\lBoldGreen : str\lGreen : str\lBoldYellow : str\lBlack : str\lWhite : str\lRed : str\l|}", shape="record"];
+"2" [label="{Log|log\lcoloredLog\l|write()\l}", shape="record"];
+"3" [label="{Memory|processList : list\lmemoryBlocks : list\llogging\lfreeList : list\lsize\l|splitMemory()\ljoinMemory()\lcheckFreeList()\l}", shape="record"];
+"4" [label="{MemoryBlock|isAllocated : bool\lstart\lend\lsize\l|updateSize()\l}", shape="record"];
+"5" [label="{Process|block\lworkingTime\lstartTime\lsize\l|}", shape="record"];
+}

@@ -1,0 +1,9 @@
+\select@language {italian}
+\select@language {italian}
+\contentsline {section}{\numberline {1}Introduzione}{1}
+\contentsline {section}{\numberline {2}Allocazione dei processi}{1}
+\contentsline {section}{\numberline {3}Implementazione dell'applicativo}{2}
+\contentsline {section}{\numberline {4}Diagramma UML delle classi}{5}
+\contentsline {section}{\numberline {5}Diagrammi a blocchi}{6}
+\contentsline {section}{\numberline {6}Manuale d'uso}{8}
+\contentsline {section}{\numberline {7}Conclusioni sui risultati ottenuti}{9}
